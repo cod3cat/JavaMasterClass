@@ -44,7 +44,6 @@ public class Person {
     }
 
     public boolean isTeen(){
-        boolean flag = ((age > 12) && (age < 20)) ? true : false;
-        return flag;
+        return (age > 12) && (age < 20) ? true : false;
     }
 }
