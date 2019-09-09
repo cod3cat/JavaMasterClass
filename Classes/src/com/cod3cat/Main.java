@@ -1,4 +1,4 @@
-package com.praveen;
+package com.cod3cat;
 
 public class Main {
 
