@@ -56,7 +56,7 @@ NOTE: In total, you have to write 3 classes.
 
 NOTE: Do not add a main method to the solution code.*/
 
-package com.cod3cat.constructors;
+package com.cod3cat.exercises;
 
 public class Floor {
 

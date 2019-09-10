@@ -1,4 +1,4 @@
-package com.cod3cat.constructors;
+package com.cod3cat.exercises;
 
 public class Carpet {
     private double cost;
