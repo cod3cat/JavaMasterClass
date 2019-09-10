@@ -47,7 +47,7 @@ NOTE: In total, you have to write 6 methods.
 
 NOTE: Do not add a main method to the solution code.*/
 
-package com.cod3cat.constructors;
+package com.cod3cat.exercises;
 
 public class ComplexNumber {
 
